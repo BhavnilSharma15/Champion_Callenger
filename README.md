@@ -31,6 +31,7 @@ JSON Response
 # Project Structure
 
 champion-challenger-model/
+
 │
 ├── app.py
 │
