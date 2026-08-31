@@ -14,7 +14,7 @@ The Flask API accepts Age and Estimated Salary as input and returns predictions 
 
 ## 🏗️ Project Architecture
 
-Client/n
+Client\
    ↓
 Flask REST API/n
    ↓
