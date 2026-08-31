@@ -27,7 +27,7 @@ Input Data/
 Predictions/
    ↓
 JSON Response/
-'''
+
 
 
 # Project Structure
