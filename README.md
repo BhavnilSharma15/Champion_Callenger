@@ -14,19 +14,19 @@ The Flask API accepts Age and Estimated Salary as input and returns predictions 
 
 ## 🏗️ Project Architecture
 
-Client
+Client/
    ↓
-Flask REST API
+Flask REST API/
    ↓
-Input Data
+Input Data/
    ↓
-├── Logistic Regression
+├── Logistic Regression/
 │
-└── Random Forest
+└── Random Forest/
    ↓
-Predictions
+Predictions/
    ↓
-JSON Response
+JSON Response/
 
 # Project Structure
 
