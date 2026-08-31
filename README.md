@@ -61,7 +61,7 @@ Used as the challenger model.
 
 ### 1. Clone repository
 
-git clone <your-repository-url>
+git clone https://github.com/BhavnilSharma15/Champion_Callenger/
 
 ### 2. Create virtual environment
 
@@ -113,14 +113,6 @@ POST /predict
     }
 }
 
-## 📈 Model Evaluation
-
-Add your actual accuracy results here.
-
-| Model | Accuracy |
-|---|---|
-| Logistic Regression | XX% |
-| Random Forest | XX% |
 
 ## 🛠️ Technologies
 
