@@ -29,29 +29,33 @@ Predictions/
 JSON Response/
 
 # Project Structure
+## 📁 Project Structure
 
+```text
 champion-challenger-model/
 │
 ├── app.py
 │
-├── championTraining.py
-├── challengerTraining.py
+├── training/
+│   ├── championTraining.py
+│   └── challengerTraining.py
 │
-├── Social_Network_Ads.csv
+├── models/
+│   ├── champion_model.pkl
+│   ├── champion_scaler.pkl
+│   ├── challenger_model.pkl
+│   └── challenger_scaler.pkl
 │
-├── champion_model.pkl
-├── challenger_model.pkl
-├── champion_scaler.pkl
-└── challenger_scaler.pkl
+├── data/
+│   └── Social_Network_Ads.csv
+│
+├── screenshots/
+│   └── postman_prediction.png
 │
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-└── screenshots/
-    ├── postman_prediction.png
-    └── model_accuracy.png
-    
+└── .gitignore
+```
 ## 📊 Dataset
 
 Dataset: Social Network Ads
