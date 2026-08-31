@@ -31,7 +31,6 @@ JSON Response/
 # Project Structure
 
 champion-challenger-model/
-
 │
 ├── app.py
 │
@@ -52,7 +51,7 @@ champion-challenger-model/
 └── screenshots/
     ├── postman_prediction.png
     └── model_accuracy.png
-
+    
 ## 📊 Dataset
 
 Dataset: Social Network Ads
