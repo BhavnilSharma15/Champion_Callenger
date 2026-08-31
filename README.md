@@ -13,7 +13,7 @@ Two machine learning models are trained and exposed through a REST API:
 The Flask API accepts Age and Estimated Salary as input and returns predictions and prediction probabilities from both models.
 
 ## 🏗️ Project Architecture
-
+```text
 Client\
    ↓
 Flask REST API/n
@@ -27,7 +27,7 @@ Input Data/
 Predictions/
    ↓
 JSON Response/
-
+'''
 # Project Structure
 ## 📁 Project Structure
 
